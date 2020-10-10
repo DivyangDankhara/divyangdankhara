@@ -1,4 +1,6 @@
+<img align='right' alt="GitHub" height="175px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 ### Hi there 👋
+
 
 <!--
 **DivyangDankhara/divyangdankhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
