@@ -1,6 +1,6 @@
 <img align='right' alt="GitHub" height="175px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### Hi there 👋
+### Hi there, I am Divyang. Nice to meet you. 👋
 
 - 🔭 I’m currently working on improving my problem solving, data structure skills
 - 🌱 I’m currently learning iOS Development ruby and python
