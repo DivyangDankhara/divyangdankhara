@@ -3,10 +3,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on improving problem solving, Data Structure skills
-- 🌱 I’m currently learning iOS Development and pythone
-- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/divyangdankhara/)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-
+- 🌱 I’m currently learning iOS Development and python
+- 💬 Ask me about anything
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/divyangdankhara/)
