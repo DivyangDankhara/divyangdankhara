@@ -1,5 +1,3 @@
-<img align='right' alt="GitHub" height="175px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ### Hi there 👋
 
 
@@ -9,3 +7,5 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
+<img align='right' alt="GitHub" height="175px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
