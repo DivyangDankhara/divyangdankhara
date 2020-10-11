@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving problem solving, Data Structure skills
-- 🌱 I’m currently learning iOS Development and python
+- 🔭 I’m currently working on improving my problem solving, data structure skills
+- 🌱 I’m currently learning iOS Development ruby and python
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/divyangdankhara/)
